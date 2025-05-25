@@ -1,0 +1,10 @@
+{
+  "name": "dna_nexus_line_finder",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "find": "node find_line.js input_file.txt 3"
+  },
+  "author": "Jonas Vaclavek"
+}
